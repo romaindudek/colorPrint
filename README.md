@@ -21,4 +21,7 @@ cprint("Or §-#Itext§ using §-#WForeground colors!")
 # compatibility
 cprint("colorPrint is §-#Icompatible§ with the usage of the § §§_#Scharacter§ if you need it §-#Danyway§ !")
 ```
+
+![ScreenShot ColorPrint Module](https://github.com/romaindudek/colorPrint/blob/medias/ScreenShot_colorprint.png?raw=true)
+
 As simple as that !
