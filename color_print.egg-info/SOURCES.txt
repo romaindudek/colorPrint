@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+color_print.egg-info/PKG-INFO
+color_print.egg-info/SOURCES.txt
+color_print.egg-info/dependency_links.txt
+color_print.egg-info/top_level.txt
